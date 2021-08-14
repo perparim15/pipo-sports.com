@@ -1,0 +1,109 @@
+
+body{
+    overflow-x: hidden;
+    background-image: url(image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+
+
+
+
+#titulli{
+    position:relative;
+    left: 40%;
+    top: 2%;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Patrick Hand', cursive;
+    color: azure;
+}
+
+#beinsports1{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 25%;
+}
+
+#beinsports2{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: 30%;
+    top: 25%;
+}
+
+#beinsports3{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: -20.5%;
+    top: 150px;
+}
+
+#beinsports4{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: -10.5%;
+    top: 150px;
+}
+#beinsports5{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 150px;
+}
+
+#beinsports6{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: 30%;
+    top: 150px;
+}
+
+#livescore{
+    width: 20%;
+    height: 100%;
+    position: relative;
+    left: 40%;
+    top: 300px;
+}
+
+#flashscore{
+    width: 20%;
+    height: 50px;
+    position: absolute;
+    left: 2%;
+    top: 82%;
+}
+
+p{
+  width: auto;
+  height: auto;
+  position: relative;
+    left: 40%;
+    top: 250px;
+  animation-name: p;
+  animation-duration: 10s;
+  font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+
+}
+
+@keyframes p {
+  0%   { left:-200px; top:250px;}
+  100% { left:40%; top:250px;}
+}
+
+
+
+
