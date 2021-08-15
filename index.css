@@ -247,10 +247,10 @@ p{
 }
 
 
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 385px) {
     
     body{
-        width: 380px;
+        width: 385px;
         height: 100%;
     overflow-x: hidden;
     background-image: url(image.jpg);
