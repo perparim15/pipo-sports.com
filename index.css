@@ -120,7 +120,7 @@ p{
 @media screen and (min-width: 375px) {
     
     body{
-        width: 100%;
+        width: 375px;
         height: 100%;
     overflow-x: hidden;
     background-image: url(image.jpg);
