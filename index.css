@@ -122,7 +122,7 @@ p{
     
     body{
         width: 412px;
-        height: 100%;
+        height: auto;
     overflow-x: hidden;
     background-image: url(image.jpg);
     background-position: center;
