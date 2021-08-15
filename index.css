@@ -352,14 +352,13 @@ p{
     p{
   width: auto;
   height: auto;
-  position: relative;
+  position: absolute;
     left: 15%;
     top: 600px;
   animation-name: p;
   animation-duration: 10s;
   font-family: 'Patrick Hand', cursive;
     font-size: 20px;
-        margin-bottom: 5%;
 
 }
 
