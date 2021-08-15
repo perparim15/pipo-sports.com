@@ -1,6 +1,9 @@
 
 
 
+
+@media screen and (max-width: 3000px){
+
 body{
     overflow-x: hidden;
     background-image: url(image.jpg);
@@ -122,19 +125,21 @@ p{
     
     
 }
+    
+}
 
 
 
-@media screen and (max-width: 413px) {
+@media screen and (max-width: 414px) {
     
     body{
-        width: 413px;
+        width: 414px;
         height: 100%;
     overflow-x: hidden;
     background-image: url(image.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     
     
 
@@ -253,6 +258,7 @@ p{
     
 }
 }
+
 
 
 
