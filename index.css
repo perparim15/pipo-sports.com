@@ -125,10 +125,10 @@ p{
 
 
 
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 413px) {
     
     body{
-        width: 412px;
+        width: 413px;
         height: 100%;
     overflow-x: hidden;
     background-image: url(image.jpg);
