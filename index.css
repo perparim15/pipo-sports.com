@@ -118,16 +118,16 @@ p{
 
 
 
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 372px) {
     
     body{
-        width: 389px;
+        width: 372px;
         height: 100%;
     overflow-x: hidden;
     background-image: url(image.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 389px;
+    background-size: ;
     
     
 
