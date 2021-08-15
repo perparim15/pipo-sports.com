@@ -118,7 +118,7 @@ p{
 
 
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2.625){
+@media only screen and (min-width:412px){
     
     body{
         width: 372px;
