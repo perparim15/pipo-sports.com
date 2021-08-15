@@ -1,5 +1,7 @@
 
 
+
+
 @screen 
 body{
     overflow-x: hidden;
@@ -17,7 +19,7 @@ body{
 
 #titulli{
     position:relative;
-    left: 50%;
+    left: 40%;
     top: 2%;
     font-size: 50px;
     text-decoration: underline;
@@ -29,7 +31,7 @@ body{
     width: 20%;
     height: 100%;
     position: relative;
-    left: 40%;
+    left: 30%;
     top: 25%;
 }
 
@@ -350,7 +352,7 @@ p{
 }
     
     
-    p{
+    #p1{
   width: auto;
   height: auto;
   position: relative;
@@ -374,7 +376,7 @@ p{
     width: auto;
     height: 120px;
     position: absolute;
-    left: 47%;
+    left: 37%;
     top: 90%;
     
 }
