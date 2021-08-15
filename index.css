@@ -1,8 +1,6 @@
 
 
 
-
-@screen 
 body{
     overflow-x: hidden;
     background-image: url(image.jpg);
@@ -29,58 +27,59 @@ body{
 
 #beinsports1{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: 30%;
+    height: auto;
+    position: absolute;
+    left: 25%;
     top: 25%;
 }
 
 #beinsports2{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: 30%;
+    height: auto;
+    position: absolute;
+    left: 50.1%;
     top: 25%;
 }
 
 #beinsports3{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: -20.5%;
-    top: 150px;
+    height: auto;
+    position: absolute;
+    left: 25.1%;
+    top: 45%;
 }
 
 #beinsports4{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: -10.5%;
-    top: 150px;
+    height: auto;
+    position: absolute;
+    left: 50.1%;
+    top: 45%;
 }
 #beinsports5{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: 20%;
-    top: 150px;
+    height: auto;
+    position: absolute;
+    left: 25.1%;
+    top: 65%;
 }
 
 #beinsports6{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: 30%;
-    top: 150px;
+    height: auto;
+    position: absolute;
+    left: 50.1%;
+    top: 65%;
 }
 
 #livescore{
     width: 20%;
-    height: 100%;
-    position: relative;
-    left: 40%;
-    top: 300px;
+    height: auto;
+    position: absolute;
+    left: 80%;
+    top: 75%;
 }
+
 
 #flashscore{
     width: 20%;
@@ -93,167 +92,40 @@ body{
 p{
   width: auto;
   height: auto;
-  position: relative;
+  position: absolute;
     left: 40%;
-    top: 250px;
+    top: 85%;
   animation-name: p;
-  animation-duration: 10s;
+  animation-duration: 15s;
   font-family: 'Patrick Hand', cursive;
     font-size: 25px;
 
 }
 
 @keyframes p {
-  0%   { left:-200px; top:250px;}
-  100% { left:40%; top:250px;}
+  0%   { left:-10%; top:80%; opacity: 0.0}
+  20% { left:20%; top:80%; opacity: 0.0 ; }
+40%{left:40%; top:80%  ; opacity: 1.0;}
+    60%{left:40%; top:80%  ; opacity: 1.0;}
+    80%{left:40%; top:80%  ; opacity: 1.0}
+    100%{left:40%; top:80%  ; opacity: 1.0}
+    
 }
+
 
 #instagram{
     width: auto;
     height: 120px;
     position: absolute;
     left: 80%;
-    top: 85%
+    top: 88%
     
     
 }
 
 
 
-@media only screen and (min-width:412px){
-    
-    body{
-        width: 412px;
-        height: 100%;
-    overflow-x: hidden;
-    background-image: url(image.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: ;
-    
-    
-
-}
-    
-    
-    
-#titulli{
-    position:relative;
-    left: 45%;
-    top: 2%;
-    font-size: 20px;
-    text-decoration: underline;
-    font-family: 'Patrick Hand', cursive;
-    color: azure;
-}
-    
-    
-    #beinsports1{
-    width: 45%;
-    height: auto;
-    position: relative;
-    left: 30%;
-    top: 50px;
-}
-    
-    #beinsports2{
-    width: 45%;
-    height:auto;
-    position: absolute;
-    left: 32%;
-    top: 24%;
-}
-
-    #beinsports3{
-    width: 45%;
-    height: auto;
-    position: absolute;
-    left: 32%;
-    top: 34%;
-}
-    
-    
-    #beinsports4{
-    width: 45%;
-    height: auto;
-    position: absolute;
-    left: 32%;
-    top: 44%;
-}
-    
-    
-    #beinsports5{
-    width: 40%;
-    height: auto;
-    position: absolute;
-    left: 32%;
-    top: 54%;
-}
-
-    
-    #beinsports6{
-    width: 45%;
-    height: auto;
-    position: absolute;
-    left: 32%;
-    top: 64%;
-}
-    
-    
-    #livescore{
-    width: 40%;
-    height: auto;
-    position: absolute;
-    left:57%;
-    top: 74%;
-}
-    
-    
-    
-    #flashscore{
-    width: 40%;
-    height: auto;
-    position: absolute;
-    left: 2%;
-    top: 78%;
-}
-    
-    
-    p{
-  width: auto;
-  height: auto;
-  position: relative;
-    left: 15%;
-    top: 600px;
-  animation-name: p;
-  animation-duration: 10s;
-  font-family: 'Patrick Hand', cursive;
-    font-size: 15px;
-        margin-bottom: 5%;
-
-}
-
-@keyframes p {
-  0%   { left:-200px; top:600px;}
-  100% { left:15%; top:600px;}
-}
-    
-    
-    #instagram{
-    width: auto;
-    height: 120px;
-    position: absolute;
-    left: 27%;
-    top: 90%;
-    
-}
-}
-
-
-
-
-
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 375px) {
     
     body{
         width: 375px;
