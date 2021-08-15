@@ -122,7 +122,7 @@ p{
     
     body{
         width: 412px;
-        height: auto;
+        height: 100%;
     overflow-x: hidden;
     background-image: url(image.jpg);
     background-position: center;
@@ -220,13 +220,14 @@ p{
     p{
   width: auto;
   height: auto;
-  position: absolute;
+  position: relative;
     left: 15%;
-    top: 20%;
+    top: 600px;
   animation-name: p;
   animation-duration: 10s;
   font-family: 'Patrick Hand', cursive;
-    font-size: 20px;
+    font-size: 15px;
+        margin-bottom: 5%;
 
 }
 
@@ -282,7 +283,7 @@ p{
     width: 40%;
     height: auto;
     position: relative;
-    left: 30%;
+    left: 40%;
     top: 50px;
 }
     
@@ -290,7 +291,7 @@ p{
     width: 40%;
     height:auto;
     position: absolute;
-    left: 32%;
+    left: 42%;
     top: 24%;
 }
 
@@ -298,7 +299,7 @@ p{
     width: 40%;
     height: auto;
     position: absolute;
-    left: 32%;
+    left: 42%;
     top: 34%;
 }
     
@@ -307,7 +308,7 @@ p{
     width: 40%;
     height: auto;
     position: absolute;
-    left: 32%;
+    left: 42%;
     top: 44%;
 }
     
@@ -316,7 +317,7 @@ p{
     width: 40%;
     height: auto;
     position: absolute;
-    left: 32%;
+    left: 42%;
     top: 54%;
 }
 
@@ -325,7 +326,7 @@ p{
     width: 40%;
     height: auto;
     position: absolute;
-    left: 32%;
+    left: 42%;
     top: 64%;
 }
     
@@ -352,13 +353,14 @@ p{
     p{
   width: auto;
   height: auto;
-  position: absolute;
+  position: relative;
     left: 15%;
     top: 600px;
   animation-name: p;
   animation-duration: 10s;
   font-family: 'Patrick Hand', cursive;
     font-size: 20px;
+        margin-bottom: 5%;
 
 }
 
