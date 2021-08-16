@@ -146,9 +146,9 @@ p{
     
 #titulli{
     position:relative;
-    left: 50%;
+    left: 52%;
     top: 2%;
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: underline;
     font-family: 'Patrick Hand', cursive;
     color: azure;
@@ -159,7 +159,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 47%;
+    left: 59%;
     top: 15%;
 }
     
@@ -167,7 +167,7 @@ p{
     width: 46%;
     height:auto;
     position: absolute;
-    left: 47%;
+    left: 59%;
     top: 24.5%;
 }
 
@@ -175,7 +175,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 47%;
+    left: 59%;
     top: 34%;
 }
     
@@ -184,7 +184,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 47%;
+    left: 59%;
     top: 44%;
 }
     
@@ -193,7 +193,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 47%;
+    left: 59%;
     top: 54%;
 }
 
@@ -202,7 +202,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 47%;
+    left: 59%;
     top: 64%;
 }
     
