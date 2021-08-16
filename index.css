@@ -1,7 +1,4 @@
 
-
-
-
 @media screen and (max-width: 3000px){
 
 body{
@@ -149,9 +146,9 @@ p{
     
 #titulli{
     position:relative;
-    left: 40%;
+    left: 50%;
     top: 2%;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: underline;
     font-family: 'Patrick Hand', cursive;
     color: azure;
@@ -159,7 +156,7 @@ p{
     
     
     #beinsports1{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: relative;
     left: 40%;
@@ -167,15 +164,15 @@ p{
 }
     
     #beinsports2{
-    width: 40%;
+    width: 46%;
     height:auto;
     position: absolute;
     left: 42%;
-    top: 24%;
+    top: 25%;
 }
 
     #beinsports3{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: absolute;
     left: 42%;
@@ -184,7 +181,7 @@ p{
     
     
     #beinsports4{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: absolute;
     left: 42%;
@@ -193,7 +190,7 @@ p{
     
     
     #beinsports5{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: absolute;
     left: 42%;
@@ -202,7 +199,7 @@ p{
 
     
     #beinsports6{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: absolute;
     left: 42%;
@@ -211,54 +208,52 @@ p{
     
     
     #livescore{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: absolute;
-    left:57%;
+    left:97%;
     top: 74%;
 }
     
     
     
     #flashscore{
-    width: 40%;
+    width: 46%;
     height: auto;
     position: absolute;
     left: 2%;
-    top: 78%;
+    top: 79%;
 }
     
     
     #p1{
   width: auto;
   height: auto;
-  position: relative;
-    left: 15%;
-    top: 600px;
+  position: absolute;
+    left: 43%;
+    top: 90%;
   animation-name: p;
-  animation-duration: 10s;
+  animation-duration: 20s;
   font-family: 'Patrick Hand', cursive;
-    font-size: 20px;
-        margin-bottom: 5%;
+    font-size: 19px;
 
 }
 
 @keyframes p {
-  0%   { left:-200px; top:600px;}
-  100% { left:15%; top:600px;}
+  0%   { left:-50%; top:90%;}
+  100% { left:43%; top:90%;}
 }
     
     
     #instagram{
-    width: auto;
+    width: 80%;
     height: 120px;
     position: absolute;
     left: 37%;
-    top: 90%;
+    top: 100%;
     
 }
 }
-
 
 
 
