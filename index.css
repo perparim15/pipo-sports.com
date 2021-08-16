@@ -131,7 +131,7 @@ p{
     
     body{
         width: 414px;
-        height: 100%;
+        height: auto;
     overflow-x: hidden;
     background-image: url(image.jpg);
     background-position: center;
@@ -146,7 +146,7 @@ p{
     
 #titulli{
     position:relative;
-    left: 52%;
+    left: 60%;
     top: 2%;
     font-size: 40px;
     text-decoration: underline;
@@ -156,53 +156,53 @@ p{
     
     
     #beinsports1{
-    width: 46%;
+    width: 60%;
     height: auto;
     position: absolute;
-    left: 59%;
+    left: 50.7%;
     top: 15%;
 }
     
     #beinsports2{
-    width: 46%;
+    width: 60%;
     height:auto;
     position: absolute;
-    left: 59%;
+    left: 50.7%;
     top: 24.5%;
 }
 
     #beinsports3{
-    width: 46%;
+    width: 60%;
     height: auto;
     position: absolute;
-    left: 59%;
+    left: 50.7%;
     top: 34%;
 }
     
     
     #beinsports4{
-    width: 46%;
+    width: 60%;
     height: auto;
     position: absolute;
-    left: 59%;
+    left: 50.7%;
     top: 44%;
 }
     
     
     #beinsports5{
-    width: 46%;
+    width: 60%;
     height: auto;
     position: absolute;
-    left: 59%;
+    left: 50.7%;
     top: 54%;
 }
 
     
     #beinsports6{
-    width: 46%;
+    width: 60%;
     height: auto;
     position: absolute;
-    left: 59%;
+    left: 50.7%;
     top: 64%;
 }
     
@@ -227,15 +227,15 @@ p{
     
     
     #p1{
-  width: auto;
+  width: 400px;
   height: auto;
   position: absolute;
-    left: 43%;
+    left: 30%;
     top: 90%;
   animation-name: p;
   animation-duration: 20s;
   font-family: 'Patrick Hand', cursive;
-    font-size: 19px;
+    font-size: 30px;
 
 }
 
