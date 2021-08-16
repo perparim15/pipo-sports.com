@@ -158,24 +158,24 @@ p{
     #beinsports1{
     width: 46%;
     height: auto;
-    position: relative;
-    left: 40%;
-    top: 50px;
+    position: absolute;
+    left: 47%;
+    top: 15%;
 }
     
     #beinsports2{
     width: 46%;
     height:auto;
     position: absolute;
-    left: 42%;
-    top: 25%;
+    left: 47%;
+    top: 24.5%;
 }
 
     #beinsports3{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 42%;
+    left: 47%;
     top: 34%;
 }
     
@@ -184,7 +184,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 42%;
+    left: 47%;
     top: 44%;
 }
     
@@ -193,7 +193,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 42%;
+    left: 47%;
     top: 54%;
 }
 
@@ -202,7 +202,7 @@ p{
     width: 46%;
     height: auto;
     position: absolute;
-    left: 42%;
+    left: 47%;
     top: 64%;
 }
     
